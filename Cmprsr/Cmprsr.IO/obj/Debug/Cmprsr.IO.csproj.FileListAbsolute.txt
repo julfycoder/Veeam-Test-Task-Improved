@@ -1,0 +1,17 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.IO.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.IO.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Common.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Configuration.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Operational.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Parallelization.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Segmentation.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Common.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Configuration.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Operational.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Parallelization.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Debug\Cmprsr.Segmentation.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Debug\Cmprsr.IO.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Debug\Cmprsr.IO.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Debug\Cmprsr.IO.csproj.CopyComplete
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Debug\Cmprsr.IO.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Debug\Cmprsr.IO.pdb

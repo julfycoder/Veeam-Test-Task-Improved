@@ -1,0 +1,9 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\bin\Debug\Cmprsr.Segmentation.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\bin\Debug\Cmprsr.Segmentation.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\bin\Debug\Cmprsr.Common.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\bin\Debug\Cmprsr.Common.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\obj\Debug\Cmprsr.Segmentation.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\obj\Debug\Cmprsr.Segmentation.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\obj\Debug\Cmprsr.Segmentation.csproj.CopyComplete
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\obj\Debug\Cmprsr.Segmentation.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Segmentation\obj\Debug\Cmprsr.Segmentation.pdb

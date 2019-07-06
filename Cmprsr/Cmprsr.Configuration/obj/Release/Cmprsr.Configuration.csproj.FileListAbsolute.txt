@@ -1,0 +1,6 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Configuration\bin\Release\Cmprsr.Configuration.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Configuration\bin\Release\Cmprsr.Configuration.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Configuration\obj\Release\Cmprsr.Configuration.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Configuration\obj\Release\Cmprsr.Configuration.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Configuration\obj\Release\Cmprsr.Configuration.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Configuration\obj\Release\Cmprsr.Configuration.pdb

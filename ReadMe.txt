@@ -1,0 +1,1 @@
+Main executable file -> Cmprsr\Cmprsr.Console\bin\Debug\Cmprsr.Console.exe

@@ -1,0 +1,6 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Common\bin\Debug\Cmprsr.Common.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Common\bin\Debug\Cmprsr.Common.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Common\obj\Debug\Cmprsr.Common.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Common\obj\Debug\Cmprsr.Common.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Common\obj\Debug\Cmprsr.Common.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Common\obj\Debug\Cmprsr.Common.pdb

@@ -1,0 +1,17 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.IO.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.IO.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Common.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Configuration.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Operational.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Parallelization.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Segmentation.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Common.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Configuration.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Operational.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Parallelization.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\bin\Release\Cmprsr.Segmentation.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Release\Cmprsr.IO.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Release\Cmprsr.IO.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Release\Cmprsr.IO.csproj.CopyComplete
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Release\Cmprsr.IO.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.IO\obj\Release\Cmprsr.IO.pdb

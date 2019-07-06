@@ -1,0 +1,6 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Operational\bin\Release\Cmprsr.Operational.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Operational\bin\Release\Cmprsr.Operational.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Operational\obj\Release\Cmprsr.Operational.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Operational\obj\Release\Cmprsr.Operational.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Operational\obj\Release\Cmprsr.Operational.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Operational\obj\Release\Cmprsr.Operational.pdb

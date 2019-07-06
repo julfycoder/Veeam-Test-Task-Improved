@@ -1,0 +1,9 @@
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\bin\Release\Cmprsr.Parallelization.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\bin\Release\Cmprsr.Parallelization.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\bin\Release\Cmprsr.Configuration.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\bin\Release\Cmprsr.Configuration.pdb
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\obj\Release\Cmprsr.Parallelization.csprojAssemblyReference.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\obj\Release\Cmprsr.Parallelization.csproj.CoreCompileInputs.cache
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\obj\Release\Cmprsr.Parallelization.csproj.CopyComplete
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\obj\Release\Cmprsr.Parallelization.dll
+O:\ML\IT\Projects\Real\Cmprsr\Cmprsr\Cmprsr.Parallelization\obj\Release\Cmprsr.Parallelization.pdb
